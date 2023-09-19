@@ -1,1 +1,2 @@
-print("hello world")
+for i in "asdddd":
+    print("hello world")
